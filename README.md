@@ -45,4 +45,4 @@ Pre každý port sa počítajú:
 ## Spustenie
 
 ```bash
-python3 switch.py
+python3 main.py
